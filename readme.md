@@ -1,4 +1,4 @@
-# lambda-cloudformation-response [![Build Status](https://travis-ci.org/bendrucker/lambda-cloudformation-response.svg?branch=master)](https://travis-ci.org/bendrucker/lambda-cloudformation-response)
+# lambda-cloudformation-response [![Build Status](https://travis-ci.org/bendrucker/lambda-cloudformation-response.svg?branch=master)](https://travis-ci.org/bendrucker/lambda-cloudformation-response) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/lambda-cloudformation-response.svg)](https://greenkeeper.io/)
 
 > Send a response from an [AWS Lambda](https://aws.amazon.com/lambda/) function in response to a [CloudFormation custom resource](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-custom-resources-lambda.html) request
 
